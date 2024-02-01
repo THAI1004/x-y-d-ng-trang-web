@@ -1,0 +1,16 @@
+.sanpham{
+    display: flex;
+}
+.sanpham.anh,
+.sanpham.mota{
+    float: left;
+}
+.sanpham.mota{
+    margin-left: 30px;
+}
+.map iframe{
+    margin-left: 10%;
+}
+.sls iframe{
+    margin-left: 15%;
+}
